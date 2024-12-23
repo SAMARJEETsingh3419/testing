@@ -1,0 +1,10 @@
+.normal_background {
+    background-color: black;
+    color: white;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
